@@ -14,3 +14,10 @@ C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4_C#\ipv4\ipv4\obj\Debug\ipv4.
 C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4_C#\ipv4\ipv4\obj\Debug\ipv4.csproj.CoreCompileInputs.cache
 C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4_C#\ipv4\ipv4\obj\Debug\ipv4.exe
 C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4_C#\ipv4\ipv4\obj\Debug\ipv4.pdb
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\bin\Debug\ipv4.exe.config
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\bin\Debug\ipv4.exe
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\bin\Debug\ipv4.pdb
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\obj\Debug\ipv4.csproj.SuggestedBindingRedirects.cache
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\obj\Debug\ipv4.csproj.CoreCompileInputs.cache
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\obj\Debug\ipv4.exe
+C:\Users\FreePC\Desktop\cartelle compiti\tpsit\Ipv4\ipv4\ipv4\obj\Debug\ipv4.pdb

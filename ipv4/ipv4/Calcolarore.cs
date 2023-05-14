@@ -24,6 +24,11 @@ namespace ipv4
             _bitstringa = bits;
             _cidr = cidr;
         }
+        /// <summary>
+        /// Il metodo riesce a calcolarmi l'indirizzo ipv4 inserendo 32 bit
+        /// </summary>
+        /// <returns> ritorna l'indirizzo ipv4 in decimale </returns>
+        /// <param name="fine"> las stringa finale dell'indirizzo</param>
         public string generateIPv4()
         {
             string fine="";
@@ -36,9 +41,13 @@ namespace ipv4
             else
                 throw new Exception("errati ");
         }
-
+        /// <summary>
+        /// Il metodo mi calcola la subnet mask inserendo il cidr 
+        /// </summary>
+        /// <returns>ritorna la subnetmask richiesta</returns>
         public string generateSubnet()
         {
+            //facciamo i relativi controlli
             if (!int.TryParse(_cidr, out int  cidr_int))
                 throw new ArgumentException("Errore il cidr è sbagliato");
             if (cidr_int < 0 || cidr_int> 32)
